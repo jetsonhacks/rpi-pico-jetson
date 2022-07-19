@@ -25,7 +25,8 @@ You will then need to configure Thonny for use with MicroPython and the Pico.
 
 # Releases
 
-July, 2022 - Pre-release
+### July, 2022 - Pre-release
 * Install Thonny Python IDE for use with Raspberry Pi Pico
 * Tested on Jetson Nano, Jetson Xavier NX
+* JetPack 4.6.1, L4T 32.7.1
 
