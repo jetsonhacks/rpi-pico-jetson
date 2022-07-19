@@ -16,10 +16,11 @@ $ ./install_thonny.sh
 The script is straightforward, you may want to configure the installation script to meet your needs, such as setting a different installation directory or upgraded Python version.
 
 In order to run Thonny:
-
-$ cd ~/thonny
-$ source bin/activate
-$ thonny
+```
+cd ~/thonny
+source bin/activate
+thonny
+```
 
 You will then need to configure Thonny for use with MicroPython and the Pico.
 
